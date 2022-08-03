@@ -1,5 +1,5 @@
 ---
-title: "en-site"
+title: "~_/)~"
 ---
 
 This is a Quarto website.
