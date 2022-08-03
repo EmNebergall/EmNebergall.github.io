@@ -5,6 +5,10 @@
 # Data
 *.csv
 
+# Quarto files
+/.quarto/
+/_site/
+
 # Session Data files
 .RData
 
